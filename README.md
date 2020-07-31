@@ -10,7 +10,22 @@ Transmister is a fast, lightweight and secure messaging app. It supports end-to-
 
 [transmister/transmister-server-and-web](https://github.com/transmister/transmister-server-and-web)
 
-Server and web client, mainly based on [<span style="color: #61dafb; font-weight: bold; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;">React</span>](https://reactjs.org/) and [<span style="font-family: 'Open Sans', sans-serif;">socket.io</span>](https://socket.io/).
+Server and web client, mainly based on [React](https://reactjs.org/) and [socket.io](https://socket.io/).
+
+### Contributors in our organisation
+
+- [@MrWillCom](https://github.com/MrWillCom)
+- [@xCss](https://github.com/xCss)
+
+## Android Client
+
+[transmister/transmister-client-android](https://github.com/transmister/transmister-client-android)
+
+The official Android client.
+
+### Contributors in our organisation
+
+- [@aeilot](https://github.com/aeilot)
 
 ## Features
 
